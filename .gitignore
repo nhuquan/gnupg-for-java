@@ -9,3 +9,6 @@ jni/TAGS
 jni/com_freiheit_gnupg_GnuPG*.h
 lib/libgnupg-for-java.so
 target/
+
+# IntelliJ
+.idea/
